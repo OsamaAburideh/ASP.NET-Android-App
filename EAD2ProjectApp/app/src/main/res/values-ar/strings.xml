@@ -1,0 +1,8 @@
+<?xml version="1.0" encoding="utf-8"?>
+<resources>
+    <string name="app_name">Your Football App</string>
+    <string name="allPlayers">كل اللاعبين</string>
+    <string name="searchPlayer">ابحث عن الاعبين</string>
+    <string name="teams"> الفرق</string>
+    <string name="translator">Arabic - English</string>
+</resources>

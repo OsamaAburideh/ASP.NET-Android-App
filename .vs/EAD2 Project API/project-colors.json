@@ -1,0 +1,11 @@
+{
+  "Version": 1,
+  "ProjectMap": {
+    "cdb791ac-4eb8-4570-813d-1069b953031c": {
+      "ProjectGuid": "cdb791ac-4eb8-4570-813d-1069b953031c",
+      "DisplayName": "EAD2 Project API",
+      "ColorIndex": 0
+    }
+  },
+  "NextColorIndex": 1
+}
